@@ -1892,19 +1892,19 @@ body {
 .cid-rv0nVPKyBL .field-input input::-webkit-input-placeholder,
 .cid-rv0nVPKyBL .form-control textarea::-webkit-input-placeholder,
 .cid-rv0nVPKyBL .field-input textarea::-webkit-input-placeholder {
-  color: #c1c1c1;
+  color: #57468b;
 }
 .cid-rv0nVPKyBL .form-control input:-moz-placeholder,
 .cid-rv0nVPKyBL .field-input input:-moz-placeholder,
 .cid-rv0nVPKyBL .form-control textarea:-moz-placeholder,
 .cid-rv0nVPKyBL .field-input textarea:-moz-placeholder {
-  color: #c1c1c1;
+  color: #57468b;
 }
 .cid-rv0nVPKyBL .form-control:hover,
 .cid-rv0nVPKyBL .field-input:hover,
 .cid-rv0nVPKyBL .form-control:focus,
 .cid-rv0nVPKyBL .field-input:focus {
-  background-color: #efefef;
+  background-color: #ffe100;
   border-color: #000000;
   color: #ffffff;
   box-shadow: none;
@@ -1918,7 +1918,7 @@ body {
 .cid-rv0nVPKyBL .field-input:hover textarea::-webkit-input-placeholder,
 .cid-rv0nVPKyBL .form-control:focus textarea::-webkit-input-placeholder,
 .cid-rv0nVPKyBL .field-input:focus textarea::-webkit-input-placeholder {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-rv0nVPKyBL .form-control:hover input:-moz-placeholder,
 .cid-rv0nVPKyBL .field-input:hover input:-moz-placeholder,
@@ -1928,11 +1928,11 @@ body {
 .cid-rv0nVPKyBL .field-input:hover textarea:-moz-placeholder,
 .cid-rv0nVPKyBL .form-control:focus textarea:-moz-placeholder,
 .cid-rv0nVPKyBL .field-input:focus textarea:-moz-placeholder {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-rv0nVPKyBL .jq-number__spin:hover,
 .cid-rv0nVPKyBL .jq-number__spin:focus {
-  background-color: #efefef;
+  background-color: #ffe100;
   border-color: #000000;
   color: #ffffff;
   box-shadow: none;
@@ -1953,7 +1953,7 @@ body {
 }
 .cid-rv0nVPKyBL .jq-selectbox li:hover,
 .cid-rv0nVPKyBL .jq-selectbox li.selected {
-  background-color: #efefef;
+  background-color: #ffe100;
   color: #000000;
 }
 .cid-rv0nVPKyBL .jq-selectbox:hover .jq-selectbox__trigger-arrow,
@@ -1965,8 +1965,8 @@ body {
 .cid-rv0nVPKyBL .jq-selectbox .jq-selectbox__trigger-arrow,
 .cid-rv0nVPKyBL .jq-number__spin.minus:after,
 .cid-rv0nVPKyBL .jq-number__spin.plus:after {
-  border-top-color: #efefef;
-  border-bottom-color: #efefef;
+  border-top-color: #ffe100;
+  border-bottom-color: #ffe100;
 }
 .cid-rv0nVPKyBL input::-webkit-clear-button {
   display: none;
