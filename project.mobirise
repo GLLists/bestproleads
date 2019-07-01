@@ -58,11 +58,11 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "BestproLead.com",
+        "meta_descr": "Real Leads For Your Income www.BestProLeads.com Discover The Right Leads That Makes You Richer. ",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "Real Leads For Your Income www.BestProLeads.com Discover The Right Leads That Makes You Richer. "
       },
       "components": [
         {
