@@ -1883,7 +1883,7 @@ body {
   padding: 0.5rem;
   background-color: #efefef;
   border-color: #57468b;
-  color: #ffffff;
+  color: #000000;
   transition: 0.4s;
   box-shadow: none;
   outline: none;
@@ -1906,7 +1906,7 @@ body {
 .cid-rv2lQCdhcf .field-input:focus {
   background-color: #cccccc;
   border-color: #000000;
-  color: #000000;
+  color: #ffffff;
   box-shadow: none;
   outline: none;
 }
@@ -1934,14 +1934,14 @@ body {
 .cid-rv2lQCdhcf .jq-number__spin:focus {
   background-color: #cccccc;
   border-color: #000000;
-  color: #000000;
+  color: #ffffff;
   box-shadow: none;
   outline: none;
 }
 .cid-rv2lQCdhcf .jq-number__spin {
   background-color: #efefef;
   border-color: #57468b;
-  color: #ffffff;
+  color: #000000;
   transition: 0.4s;
   box-shadow: none;
   outline: none;
