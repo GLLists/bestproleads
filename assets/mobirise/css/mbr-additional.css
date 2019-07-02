@@ -1881,9 +1881,9 @@ body {
 .cid-rv2lQCdhcf .form-control,
 .cid-rv2lQCdhcf .field-input {
   padding: 0.5rem;
-  background-color: #ffffff;
+  background-color: #efefef;
   border-color: #57468b;
-  color: #000000;
+  color: #ffffff;
   transition: 0.4s;
   box-shadow: none;
   outline: none;
@@ -1904,9 +1904,9 @@ body {
 .cid-rv2lQCdhcf .field-input:hover,
 .cid-rv2lQCdhcf .form-control:focus,
 .cid-rv2lQCdhcf .field-input:focus {
-  background-color: #e4d295;
+  background-color: #cccccc;
   border-color: #000000;
-  color: #ffffff;
+  color: #000000;
   box-shadow: none;
   outline: none;
 }
@@ -1932,41 +1932,41 @@ body {
 }
 .cid-rv2lQCdhcf .jq-number__spin:hover,
 .cid-rv2lQCdhcf .jq-number__spin:focus {
-  background-color: #e4d295;
+  background-color: #cccccc;
   border-color: #000000;
-  color: #ffffff;
+  color: #000000;
   box-shadow: none;
   outline: none;
 }
 .cid-rv2lQCdhcf .jq-number__spin {
-  background-color: #ffffff;
+  background-color: #efefef;
   border-color: #57468b;
-  color: #000000;
+  color: #ffffff;
   transition: 0.4s;
   box-shadow: none;
   outline: none;
 }
 .cid-rv2lQCdhcf .jq-selectbox li,
 .cid-rv2lQCdhcf .jq-selectbox li {
-  background-color: #ffffff;
+  background-color: #efefef;
   color: #000000;
 }
 .cid-rv2lQCdhcf .jq-selectbox li:hover,
 .cid-rv2lQCdhcf .jq-selectbox li.selected {
-  background-color: #e4d295;
+  background-color: #cccccc;
   color: #000000;
 }
 .cid-rv2lQCdhcf .jq-selectbox:hover .jq-selectbox__trigger-arrow,
 .cid-rv2lQCdhcf .jq-number__spin.minus:hover:after,
 .cid-rv2lQCdhcf .jq-number__spin.plus:hover:after {
-  border-top-color: #ffffff;
-  border-bottom-color: #ffffff;
+  border-top-color: #efefef;
+  border-bottom-color: #efefef;
 }
 .cid-rv2lQCdhcf .jq-selectbox .jq-selectbox__trigger-arrow,
 .cid-rv2lQCdhcf .jq-number__spin.minus:after,
 .cid-rv2lQCdhcf .jq-number__spin.plus:after {
-  border-top-color: #e4d295;
-  border-bottom-color: #e4d295;
+  border-top-color: #cccccc;
+  border-bottom-color: #cccccc;
 }
 .cid-rv2lQCdhcf input::-webkit-clear-button {
   display: none;
