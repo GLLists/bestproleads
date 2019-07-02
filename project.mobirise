@@ -632,6 +632,9 @@
               "input::-webkit-calendar-picker-indicator": {
                 "display": "none"
               }
+            },
+            "H4": {
+              "color": "#ffe100"
             }
           },
           "_name": "formbuilder",

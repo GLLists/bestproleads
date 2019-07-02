@@ -1980,6 +1980,9 @@ body {
 .cid-rv2hCfXVFf input::-webkit-calendar-picker-indicator {
   display: none;
 }
+.cid-rv2hCfXVFf H4 {
+  color: #ffe100;
+}
 .cid-rv0GtgBVov {
   padding-top: 0px;
   padding-bottom: 225px;
