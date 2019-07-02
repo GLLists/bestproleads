@@ -1881,7 +1881,7 @@ body {
 .cid-rv2lQCdhcf .form-control,
 .cid-rv2lQCdhcf .field-input {
   padding: 0.5rem;
-  background-color: #efefef;
+  background-color: #ffffff;
   border-color: #57468b;
   color: #000000;
   transition: 0.4s;
@@ -1939,7 +1939,7 @@ body {
   outline: none;
 }
 .cid-rv2lQCdhcf .jq-number__spin {
-  background-color: #efefef;
+  background-color: #ffffff;
   border-color: #57468b;
   color: #000000;
   transition: 0.4s;
@@ -1948,7 +1948,7 @@ body {
 }
 .cid-rv2lQCdhcf .jq-selectbox li,
 .cid-rv2lQCdhcf .jq-selectbox li {
-  background-color: #efefef;
+  background-color: #ffffff;
   color: #000000;
 }
 .cid-rv2lQCdhcf .jq-selectbox li:hover,
@@ -1959,8 +1959,8 @@ body {
 .cid-rv2lQCdhcf .jq-selectbox:hover .jq-selectbox__trigger-arrow,
 .cid-rv2lQCdhcf .jq-number__spin.minus:hover:after,
 .cid-rv2lQCdhcf .jq-number__spin.plus:hover:after {
-  border-top-color: #efefef;
-  border-bottom-color: #efefef;
+  border-top-color: #ffffff;
+  border-bottom-color: #ffffff;
 }
 .cid-rv2lQCdhcf .jq-selectbox .jq-selectbox__trigger-arrow,
 .cid-rv2lQCdhcf .jq-number__spin.minus:after,
